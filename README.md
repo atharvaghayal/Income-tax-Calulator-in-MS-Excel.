@@ -76,3 +76,5 @@ To be finalized after stable version release.
 
 > “Tax calculation should be simple, transparent, and stress-free.”  
 > **– AG**
+
+---
